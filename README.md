@@ -39,12 +39,37 @@ switch2.
 •  Circuit is tested for all possible combination of switch positions.
 
 
-Direct connection: CIRCUIT DIAGRAM: 
+Direct connection: 
+
+CIRCUIT DIAGRAM: 
+
+<img width="1118" height="518" alt="image" src="https://github.com/user-attachments/assets/bd2d975d-b18d-435a-90ed-d5a355ccdb01" />
+
+<img width="1081" height="492" alt="image" src="https://github.com/user-attachments/assets/e7c8eefe-3652-4b3b-9424-aabee64f2107" />
+
+<img width="1545" height="919" alt="image" src="https://github.com/user-attachments/assets/bf4e885a-abcb-4e86-8ee6-eb0a6d06701a" />
+
+
 Tabulation:1
+
+<img width="1600" height="841" alt="image" src="https://github.com/user-attachments/assets/efde9cc2-27e7-4cbe-acfa-f5255e05f1ed" />
+
 	
-Cross connection: CIRCUIT DIAGRAM:
+Cross connection: 
+
+CIRCUIT DIAGRAM:
+
+<img width="1071" height="524" alt="image" src="https://github.com/user-attachments/assets/b582f1b1-e345-46b5-81cb-6180d9a116ec" />
+
+<img width="1071" height="482" alt="image" src="https://github.com/user-attachments/assets/96cd52a4-5c53-410b-a23c-ceef2b620c5e" />
+
+<img width="1492" height="919" alt="image" src="https://github.com/user-attachments/assets/e0b9d03f-a1fe-490c-9fee-32a26f304dcf" />
+
 
 Tabulation:2
+
+<img width="1405" height="919" alt="image" src="https://github.com/user-attachments/assets/5017bb42-4739-4552-9c5c-8ce62ee09c67" />
+
 
 RESULT:
 Thus the staircase wiring is connected and tested.
