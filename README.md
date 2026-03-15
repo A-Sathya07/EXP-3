@@ -50,13 +50,11 @@ CIRCUIT DIAGRAM:
 <img width="1081" height="492" alt="Screenshot 2026-03-13 081342" src="https://github.com/user-attachments/assets/0c76753d-be4e-4b89-9282-330197f8faa2" />
 
 
-<img width="1545" height="919" alt="image" src="https://github.com/user-attachments/assets/6b002b90-c135-4837-bb8e-9ef6353652ed" />
-
+![alt text](image.png)
 
 Tabulation:1
 
-<img width="1600" height="841" alt="image" src="https://github.com/user-attachments/assets/da0ddbbd-4e47-4d1c-af9a-130ec58ecc76" />
-
+![alt text](image-1.png)
 	
 Cross connection: 
 
@@ -66,13 +64,12 @@ CIRCUIT DIAGRAM:
 
 <img width="1071" height="482" alt="Screenshot 2026-03-13 081704" src="https://github.com/user-attachments/assets/ca61380b-24ca-486a-bd62-93afb9318fe9" />
 
-<img width="1492" height="919" alt="image" src="https://github.com/user-attachments/assets/33be4271-4c9d-4422-9510-0edca660f32c" />
-
+![alt text](image-2.png)
 
 
 Tabulation:2
 
-<img width="1405" height="919" alt="image" src="https://github.com/user-attachments/assets/923e7885-0a87-4606-acf4-e597215ef1c3" />
+![alt text](image-3.png)
 
 
 
